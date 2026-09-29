@@ -1,0 +1,182 @@
+[
+    {
+        "turno": 1,
+        "jogador": "LUIS",
+        "coord": "A1",
+        "resultado": "agua"
+    },
+    {
+        "turno": 2,
+        "jogador": "GUIDO",
+        "coord": "A2",
+        "resultado": "agua"
+    },
+    {
+        "turno": 3,
+        "jogador": "LUIS",
+        "coord": "A3",
+        "resultado": "agua"
+    },
+    {
+        "turno": 4,
+        "jogador": "GUIDO",
+        "coord": "A4",
+        "resultado": "agua"
+    },
+    {
+        "turno": 5,
+        "jogador": "LUIS",
+        "coord": "A5",
+        "resultado": "agua"
+    },
+    {
+        "turno": 6,
+        "jogador": "GUIDO",
+        "coord": "A6",
+        "resultado": "agua"
+    },
+    {
+        "turno": 7,
+        "jogador": "LUIS",
+        "coord": "A7",
+        "resultado": "agua"
+    },
+    {
+        "turno": 8,
+        "jogador": "GUIDO",
+        "coord": "A8",
+        "resultado": "agua"
+    },
+    {
+        "turno": 9,
+        "jogador": "LUIS",
+        "coord": "A9",
+        "resultado": "agua"
+    },
+    {
+        "turno": 10,
+        "jogador": "GUIDO",
+        "coord": "A10",
+        "resultado": "agua"
+    },
+    {
+        "turno": 11,
+        "jogador": "LUIS",
+        "coord": "F5",
+        "resultado": "agua"
+    },
+    {
+        "turno": 12,
+        "jogador": "GUIDO",
+        "coord": "G2",
+        "resultado": "acerto"
+    },
+    {
+        "turno": 13,
+        "jogador": "LUIS",
+        "coord": "B3",
+        "resultado": "agua"
+    },
+    {
+        "turno": 14,
+        "jogador": "GUIDO",
+        "coord": "H2",
+        "resultado": "acerto"
+    },
+    {
+        "turno": 15,
+        "jogador": "LUIS",
+        "coord": "A2",
+        "resultado": "agua"
+    },
+    {
+        "turno": 16,
+        "jogador": "GUIDO",
+        "coord": "I2",
+        "resultado": "acerto"
+    },
+    {
+        "turno": 17,
+        "jogador": "LUIS",
+        "coord": "A4",
+        "resultado": "agua"
+    },
+    {
+        "turno": 18,
+        "jogador": "GUIDO",
+        "coord": "J2",
+        "resultado": "afundado"
+    },
+    {
+        "turno": 19,
+        "jogador": "LUIS",
+        "coord": "A6",
+        "resultado": "agua"
+    },
+    {
+        "turno": 20,
+        "jogador": "GUIDO",
+        "coord": "E3",
+        "resultado": "acerto"
+    },
+    {
+        "turno": 21,
+        "jogador": "LUIS",
+        "coord": "A8",
+        "resultado": "agua"
+    },
+    {
+        "turno": 22,
+        "jogador": "GUIDO",
+        "coord": "F3",
+        "resultado": "acerto"
+    },
+    {
+        "turno": 23,
+        "jogador": "LUIS",
+        "coord": "A10",
+        "resultado": "agua"
+    },
+    {
+        "turno": 24,
+        "jogador": "GUIDO",
+        "coord": "G3",
+        "resultado": "acerto"
+    },
+    {
+        "turno": 25,
+        "jogador": "LUIS",
+        "coord": "B1",
+        "resultado": "agua"
+    },
+    {
+        "turno": 26,
+        "jogador": "GUIDO",
+        "coord": "H3",
+        "resultado": "afundado"
+    },
+    {
+        "turno": 27,
+        "jogador": "LUIS",
+        "coord": "D4",
+        "resultado": "agua"
+    },
+    {
+        "turno": 28,
+        "jogador": "GUIDO",
+        "coord": "E9",
+        "resultado": "acerto"
+    },
+    {
+        "turno": 29,
+        "jogador": "LUIS",
+        "coord": "E 3",
+        "resultado": "agua"
+    },
+    {
+        "turno": 30,
+        "jogador": "GUIDO",
+        "coord": "F9",
+        "resultado": "afundado"
+    }
+]

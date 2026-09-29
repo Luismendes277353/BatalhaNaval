@@ -1,0 +1,24 @@
+[
+    {
+        "vencedor": "Luis",
+        "nome_jogador1": "Luis",
+        "nome_jogador2": "Computador",
+        "jogadas_jogador1": 43,
+        "jogadas_jogador2": 42,
+        "acertos_jogador1": 10,
+        "acertos_jogador2": 8,
+        "aproveitamento_jogador1": 23.25581395348837,
+        "aproveitamento_jogador2": 19.047619047619047
+    },
+    {
+        "vencedor": "GUIDO",
+        "nome_jogador1": "LUIS",
+        "nome_jogador2": "GUIDO",
+        "jogadas_jogador1": 15,
+        "jogadas_jogador2": 15,
+        "acertos_jogador1": 0,
+        "acertos_jogador2": 10,
+        "aproveitamento_jogador1": 0.0,
+        "aproveitamento_jogador2": 66.66666666666666
+    }
+]
